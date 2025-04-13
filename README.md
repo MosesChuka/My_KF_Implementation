@@ -7,4 +7,10 @@ This project is largely incomplete. Updates on new probabilistic robotic algorit
 
 Improvement suggestions are appriciated (chukwukaokonkwo8(at)gmail(dot)com)
 
-Feel free to use the code in your own projects..... Cheers ;)
+Feel free to use the code in your own projects..... Cheers ;
+
+
+## Dependencies
+-Python3
+-Numpy
+-Eigen3
